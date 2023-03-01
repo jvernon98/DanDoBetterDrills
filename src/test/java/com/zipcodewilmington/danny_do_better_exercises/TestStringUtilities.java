@@ -2,6 +2,9 @@ package com.zipcodewilmington.danny_do_better_exercises;
 
 import org.junit.Assert;
 import org.junit.Test;
+
+import java.util.Arrays;
+
 import static org.junit.Assert.*;
 
 /**
